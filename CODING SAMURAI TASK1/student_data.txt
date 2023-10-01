@@ -1,0 +1,9 @@
+Student Name: wasi
+Student ID: 12
+Assignment Score: 14
+Quiz Score: 22
+Exam Score: 89
+Overall Grade: 89.4
+Letter Grade: A
+Feedback: Excellent!
+
